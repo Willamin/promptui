@@ -1,6 +1,6 @@
 # promptui
 
-TODO: Write a description here
+Interactive prompt for CLI apps. Heavily inspired by https://github.com/manifoldco/promptui.
 
 ## Installation
 
