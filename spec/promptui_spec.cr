@@ -1,6 +1,6 @@
 require "./spec_helper"
 
-describe Promptui do
+describe PromptUi do
   # TODO: Write tests
 
   it "works" do

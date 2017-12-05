@@ -1,5 +1,5 @@
 require "./promptui/*"
 
-module Promptui
+module PromptUi
   VERSION = {{ `shards version`.chomp.stringify }}
 end
